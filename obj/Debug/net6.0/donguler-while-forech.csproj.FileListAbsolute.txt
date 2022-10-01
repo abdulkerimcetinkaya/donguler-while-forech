@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\Pratikler\donguler-while-forech\bin\Debug\net6.0\donguler-while-forech.exe
+C:\Users\ASUS\Desktop\Pratikler\donguler-while-forech\bin\Debug\net6.0\donguler-while-forech.deps.json
+C:\Users\ASUS\Desktop\Pratikler\donguler-while-forech\bin\Debug\net6.0\donguler-while-forech.runtimeconfig.json
+C:\Users\ASUS\Desktop\Pratikler\donguler-while-forech\bin\Debug\net6.0\donguler-while-forech.dll
+C:\Users\ASUS\Desktop\Pratikler\donguler-while-forech\bin\Debug\net6.0\donguler-while-forech.pdb
+C:\Users\ASUS\Desktop\Pratikler\donguler-while-forech\obj\Debug\net6.0\donguler-while-forech.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Pratikler\donguler-while-forech\obj\Debug\net6.0\donguler-while-forech.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Pratikler\donguler-while-forech\obj\Debug\net6.0\donguler-while-forech.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Pratikler\donguler-while-forech\obj\Debug\net6.0\donguler-while-forech.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Pratikler\donguler-while-forech\obj\Debug\net6.0\donguler-while-forech.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Pratikler\donguler-while-forech\obj\Debug\net6.0\donguler-while-forech.dll
+C:\Users\ASUS\Desktop\Pratikler\donguler-while-forech\obj\Debug\net6.0\refint\donguler-while-forech.dll
+C:\Users\ASUS\Desktop\Pratikler\donguler-while-forech\obj\Debug\net6.0\donguler-while-forech.pdb
+C:\Users\ASUS\Desktop\Pratikler\donguler-while-forech\obj\Debug\net6.0\donguler-while-forech.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Pratikler\donguler-while-forech\obj\Debug\net6.0\ref\donguler-while-forech.dll
